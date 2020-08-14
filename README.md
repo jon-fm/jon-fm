@@ -8,4 +8,6 @@
 
 Welcome to my GitHub. My code lives here in various public and private repositories 🤓
 
+Netlify Community Pilot and Explorer of JAMstack vNext 😎
+
 For my thoughts and writings, check out [jon.fm](https://jon.fm) 🙂
