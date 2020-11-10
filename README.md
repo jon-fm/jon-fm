@@ -4,10 +4,12 @@
 
 👨🏻‍💻 Code | 🎸 Guitar | 🚴🏻‍♂️ Cycling | 🚙 Travel | 🎙 Pro Audio | 💰 Finances
 
+🌐 [Netlify Community Pilot](https://community.netlify.com) | 📱 [Smart-City Builder](https://www.ikesmartcity.com) | 💻 [Web Engineer](https://sargesites.com)
+
 ---
 
-Welcome to my GitHub. My code lives here in various public and private repositories 🤓
+Welcome to my GitHub 🤓
 
-Netlify Community Pilot and Explorer of JAMstack vNext 😎
+My favorite repo here is [blog](https://github.com/jon-fm/blog), which is a blog in a repository... but very literally. No jekyll or hosting or domains; just GitHub-Flavored-Markdown 🙂
 
-For my thoughts and writings, check out [jon.fm](https://jon.fm) 🙂
+Cheers!
