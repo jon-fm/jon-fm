@@ -10,6 +10,6 @@
 
 Welcome to my GitHub 🤓
 
-My favorite repo here is [blog](https://github.com/jon-fm/blog), which is a blog in a repository... but very literally. No jekyll or hosting or domains; just GitHub-Flavored-Markdown 🙂
+Check out [my website](https://jon.fm) for posts and insights.
 
 Cheers!
