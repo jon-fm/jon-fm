@@ -10,6 +10,6 @@
 
 Welcome to my GitHub 🤓
 
-Check out [my website](https://jon.fm) for posts and insights.
+Check out [jonsully.net](https://jonsully.net) for posts and insights.
 
 Cheers!
