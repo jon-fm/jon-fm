@@ -12,9 +12,15 @@ Welcome to my GitHub 🤓
 
 [jonsully.net][1] for reading & writing 📚✏️
 
-Integrate [Netlify Forms][2] into React? (Gatsy / Next.js / etc.) => [`react-ssg-netlify-forms`][4] (see [demo][5])
+---
 
-Integrate [Netlify Identity][3] into React? (Gatsby / Next.js / etc.) => [`react-netlify-identity-gotrue`][6] (see Gatsby-integrated-[demo][7])
+### Integrating [Netlify Forms][2] into React-based SSG?
+
+(Gatsy / Next.js / etc.) => [`react-ssg-netlify-forms`][4] (see [demo][5])
+
+### Integrating [Netlify Identity][3] into React-based SSG?
+
+(Gatsby / Next.js / etc.) => [`react-netlify-identity-gotrue`][6] (see Gatsby-integrated-[demo][7])
 
 
 
