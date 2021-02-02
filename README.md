@@ -4,7 +4,7 @@
 
 👨🏻‍💻 Code | 🎸 Guitar | 🚴🏻‍♂️ Cycling | 🚙 Travel | 🎙 Pro Audio | 💰 Finances
 
-🌐 [Netlify Community Pilot](https://community.netlify.com) | 📱 [Smart-City Builder](https://www.ikesmartcity.com) | 💻 [Web Engineer](https://sargesites.com)
+🌐 [Netlify Community Pilot](https://community.netlify.com) | 🏡 [Home Connector](https://agentpronto.com) | 💻 [Web Engineer](https://sargesites.com)
 
 ---
 
